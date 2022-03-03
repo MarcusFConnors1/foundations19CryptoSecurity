@@ -1,0 +1,9 @@
+Cybersecurity Research
+
+The Breach in question was in 2014, when hackers got access to over three billion of Yahoo's accounts. Through the use of a phishing scheme, the hackers were able to gain access to Yahoo's network via an employee
+clicking on one link, letting the hackers get through. The severity of the leak included all sorts of data, which included security questions and answers, email accounts, passwords, phone numbers, and 
+birthdays. Later, hackers would use cookies to break into the accounts of around 32 million people. The hackers were able to continue their access to the network, as once they were inside of the system, 
+they could then easily maintain access inside. Information with what the hackers did with the data since suggests that they sold the data for bitcoin.
+
+Since, Verizon Communications, the current parent company of Yahoo, promised to spend $306 million between 2019 and 2022 to better improve the overall ability of Yahoo to secure and deal with threats to 
+their site. Yahoo also agreed to a $117.5 million settlement to those affected.
